@@ -74,6 +74,10 @@ span {
     font-size: 32;
 }
 
+.button-cta {
+    text-decoration: none;
+}
+
 .button-req-access {
     font-family: 'Inter', sans-serif;
     color: white;
